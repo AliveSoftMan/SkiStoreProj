@@ -1,0 +1,20 @@
+{
+  "assets": {
+    "app": [
+      "./resources/assets/js/app.js",
+      "./resources/assets/sass/app.scss"
+    ],
+    "vendor": [
+      "./resources/assets/js/vendor.js"
+    ],
+    "editor-styles": [
+      "./resources/assets/sass/editor-styles.scss"
+    ],
+    "fontawesome": [
+      "./resources/assets/sass/fontawesome.scss"
+    ],
+    "block-editor-styles": [
+      "./resources/assets/sass/block-editor-styles.scss"
+    ]
+  }
+}

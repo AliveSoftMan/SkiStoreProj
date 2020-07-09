@@ -1,0 +1,604 @@
+# Copyright (C) 2016 Bishal Napit
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Masonry Brick\n"
+"POT-Creation-Date: 2018-03-19 06:10+0545\n"
+"PO-Revision-Date: 2018-03-19 06:09+0545\n"
+"Last-Translator: Bishal Napit <mebishalnapit@gmail.com>\n"
+"Language-Team: Bishal Napit <mebishalnapit@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20 404.php:28
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search instead?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:164 inc/meta-boxes.php:32
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:166
+msgid "Display your widgets in the Right Sidebar Area."
+msgstr ""
+
+#: functions.php:175 inc/meta-boxes.php:37
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:177
+msgid "Display your widgets in the Left Sidebar Area."
+msgstr ""
+
+#: functions.php:186
+msgid "404 Sidebar"
+msgstr ""
+
+#: functions.php:188
+msgid "Display your widgets in the 404 Error Page Sidebar Area."
+msgstr ""
+
+#: functions.php:197
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Display your widgets in the Contact Page Sidebar Area."
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: functions.php:210
+msgid "Display your widgets in the Footer Sidebar Area One."
+msgstr ""
+
+#: functions.php:219
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: functions.php:221
+msgid "Display your widgets in the Footer Sidebar Area Two."
+msgstr ""
+
+#: functions.php:230
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: functions.php:232
+msgid "Display your widgets in the Footer Sidebar Area Three."
+msgstr ""
+
+#: functions.php:263
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:271
+msgctxt "Lobster font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:279
+msgctxt "Add new subset ( cyrillic, greek, vietnamese )"
+msgid "no-subset"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:92
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "View Theme Demo"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Theme Important Links"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid ""
+"Change the Header Settings from here as you want to best suit your need."
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Small Info Text"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid ""
+"Write your custom text to display it in the header top bar. It also accepts "
+"the shortcodes too."
+msgstr ""
+
+#: inc/customizer.php:105 inc/extras.php:100
+msgid "Random Post"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Check to display the random post icon in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Check to display the search icon in the primary menu."
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Check to make the primary menu sticky."
+msgstr ""
+
+#: inc/customizer.php:165
+msgid ""
+"Change the Design Settings from here as you want to best suit your need."
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Choose your site layout. The change is reflected in the whole site."
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Default layout for pages"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for the specific page."
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Default layout for single posts"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for the specific post."
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Write your custom css and design live."
+msgstr ""
+
+#: inc/customizer.php:305
+msgid ""
+"Change the Additional Settings from here as you want to best suite your site."
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Check to activate the related posts."
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Related Posts To Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Image Lightbox"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid ""
+"Check to enable the lightbox feature for the featured images in single post "
+"page. Note: the post should be of image post format to support this feature, "
+"ie, we have supported the featured image in single post page only when image "
+"post format is choosen."
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Social Links In Author Bio"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid ""
+"Check to enable the social links in the Author Bio section. For this to "
+"work, you need to add the URL of your social sites in the profile section. "
+"This theme supports WordPress SEO and All In One SEO Pack plugin for this "
+"feature."
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Sticky Sidebar And Content Area"
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Check to enable the feature of sticky sidebar and content area."
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Primary Color"
+msgstr ""
+
+#: inc/extras.php:118
+msgid "WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/extras.php:120
+msgid "Bishal Napit"
+msgstr ""
+
+#: inc/extras.php:122
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: inc/extras.php:122
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/extras.php:122
+msgid "Masonry Brick"
+msgstr ""
+
+#: inc/extras.php:122
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/extras.php:340
+#, php-format
+msgid "Follow %s on:"
+msgstr ""
+
+#: inc/extras.php:342
+msgid "Facebook"
+msgstr ""
+
+#: inc/extras.php:345
+msgid "Twitter"
+msgstr ""
+
+#: inc/extras.php:348
+msgid "Google Plus"
+msgstr ""
+
+#: inc/meta-boxes.php:14 inc/meta-boxes.php:16
+msgid "Select Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:27
+msgid "Default Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:42
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/meta-boxes.php:47
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/related-posts.php:12
+msgid "Similar Articles"
+msgstr ""
+
+#: inc/template-tags.php:25
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "<i class=\"fa fa-comment\"></i>Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "<i class=\"fa fa-comment\"></i>1"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "<i class=\"fa fa-comment\"></i>%"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "<i class=\"fa fa-folder-open\"></i>%1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "<i class=\"fa fa-tags\"></i>%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:67
+#, php-format
+msgid "<i class=\"fa fa-edit\"></i>Edit %s"
+msgstr ""
+
+#: inc/widgets.php:12
+msgid "MB: Random Posts Widget"
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Displays the random posts from your site."
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:29
+msgid "Number of random posts to display:"
+msgstr ""
+
+#: inc/widgets.php:101
+msgid "MB: Tabbed Widget"
+msgstr ""
+
+#: inc/widgets.php:103
+msgid ""
+"Displays the popular posts, recent posts and the recent comments in the tabs."
+msgstr ""
+
+#: inc/widgets.php:113
+msgid "Number of popular posts, recent posts and comments to display:"
+msgstr ""
+
+#: inc/widgets.php:135
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets.php:138
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets.php:141
+msgid "Comment"
+msgstr ""
+
+#: inc/widgets.php:220
+msgid "says:"
+msgstr ""
+
+#: inc/widgets.php:224
+msgid "No Comments"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for&hellip;"
+msgstr ""
+
+#: sidebar-left.php:25 sidebar.php:25
+msgid "Contact Page"
+msgstr ""
+
+#: sidebar-left.php:27
+msgid "Left"
+msgstr ""
+
+#: sidebar-left.php:32 sidebar.php:32
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:33 sidebar.php:33
+#, php-format
+msgid ""
+"This is an example widget to show how the %s Sidebar looks by default. You "
+"can add custom widgets from the %swidgets screen%s in the admin area. If the "
+"custom widget is added in this sidebar, then, this will be replaced by those "
+"widgets."
+msgstr ""
+
+#: sidebar.php:27
+msgid "Right"
+msgstr ""
+
+#: template-parts/content-aside.php:33 template-parts/content-audio.php:43
+#: template-parts/content-chat.php:43 template-parts/content-gallery.php:59
+#: template-parts/content-image.php:58 template-parts/content-link.php:43
+#: template-parts/content-page.php:29 template-parts/content-quote.php:43
+#: template-parts/content-status.php:48 template-parts/content-video.php:43
+#: template-parts/content.php:57
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-link.php:13
+msgid "Link"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:40
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:49
+msgid "Read More <i class=\"fa fa-arrow-circle-o-right\"></i>"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://napitwptech.com/themes/masonry-brick/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Masonry Brick, as its name suggest is a WordPress theme based on the masonry "
+"layout which is suitable to display your contents in beautiful way. Some of "
+"the features of this theme are as it supports WordPress default custom "
+"header and custom background, which can be kept as requirement. Also, this "
+"theme features custom social menu and also you have the ability to choose "
+"the layout option for each of the different pages/posts individually. This "
+"theme also supports all 10 post formats so that you can show the contents "
+"uniquely according to the post formats used in your site. You can see the "
+"demo of this theme through this link: https://demo.napitwptech.com/masonry-"
+"brick/ and get free theme support from this link: https://support."
+"napitwptech.com/forums/forum/masonry-brick/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://napitwptech.com/themes/"
+msgstr ""
